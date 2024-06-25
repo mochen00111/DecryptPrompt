@@ -496,6 +496,7 @@ RLFH| 北大河狸开源RLHF数据集10K，1M需要申请|https://huggingface.co
 ## AIGC
 ### 搜索
 #### 通用搜索
+- [开搜AI搜索搜索](https://kaisouai.com/): 免费无广告，直达结果。
 - [秘塔搜索](https://metaso.cn/about-us): 融合了脑图，表格多模态问答的搜索应用
 - [iAsk](https://iask.ai/): 海外的通搜APP，支持source筛选过滤
 - [You.COM](https://chrome.google.com/webstore/detail/youcom-ai-search-assistan/chamcglaoafmjphcfppikphgianmmbjf) : 支持多种检索增强问答模式
