@@ -511,7 +511,7 @@ RLFH| 北大河狸开源RLHF数据集10K，1M需要申请|https://huggingface.co
 - [Globe Explorer](https://explorer.globe.engineer/):搜索query相关的知识并构建类似知识图谱的结构返回图片信息
 - [天工AI搜索](https://www.tiangong.cn/?channel=bing&msclkid=3f5eebf016751939acb98dcd75d4dc02)：和You相同的三种模式检索增强
 - [MiKU搜索](https://hellomiku.com/?ref=aihub.cn)：更多面向事件的搜索
-- [开搜AI搜索搜索](https://kaisouai.com/): 免费无广告，直达结果
+- [开搜AI搜索](https://kaisouai.com/): 免费无广告，直达结果，一款面向大众的、直达答案的AI搜索引擎。
 #### 代码搜索
 - [devv.ai](https://devv.ai/zh/search?threadId=d5kn5g4oz2m8): 基于微调llama2 + RAG搭建的属于程序员的搜索引擎  
 - [Phind](https://www.phind.com/?ref=allthingsai): 面向开发人员的AI搜索引擎
